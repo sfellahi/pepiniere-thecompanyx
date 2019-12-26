@@ -1,0 +1,24 @@
+{
+  "name": "pepiniere-thecompanyx",
+  "version": "1.0.0",
+  "description": "The company X website",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfellahi/pepiniere-thecompanyx.git"
+  },
+  "author": "Soufiane FELLAHI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfellahi/pepiniere-thecompanyx/issues"
+  },
+  "homepage": "https://github.com/sfellahi/pepiniere-thecompanyx#readme"
+}
